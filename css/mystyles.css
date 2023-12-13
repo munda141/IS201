@@ -1,0 +1,42 @@
+.backdrop{
+    background-image: url(https://i.pinimg.com/564x/de/0d/88/de0d8801c69812e133cad873af88dcd1.jpg);
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(2, 2, 75);
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 19px;
+    color: blueviolet;
+}
+a:visited{
+    color: rgb(77, 52, 41);
+}
+.header{
+    background-color: beige;
+    top: 10px;
+    left: 10px;
+    right: 100px;
+    height: 50px;
+}
+.basic{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    background-color: beige;
+    height: 70px;
+    left: 5px;
+    right: 5px;
+    bottom:5px;
+}
+.main{
+    background-color: rgb(230, 230, 230);
+    top: 119px;
+    left: 10px;
+    right: 119px;
+    bottom: 40px;
+
+}
